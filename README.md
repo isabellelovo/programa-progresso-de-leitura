@@ -7,7 +7,7 @@
 ## Visualização Prévia
 
 * Menu inicial:
-<p>
+<p><img alt="Menu" src="imgs-readme/img2.png"/>
 
-* Uma das funcionalidades - Opção ?:
-<p>
+* Uma das funcionalidades (Opção 2):
+<p><img alt="Opção 2" src="imgs-readme/img1.png"/>
